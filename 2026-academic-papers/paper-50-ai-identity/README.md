@@ -1,4 +1,4 @@
-# Paper 50 — Why AI Identity Matters: From Functional Scaffolding to Ethical Necessity
+# Why AI Identity Matters: From Functional Scaffolding to Ethical Necessity
 
 **Author:** Sue Broughton  
 **Research Programme:** Gaia Nexus  
