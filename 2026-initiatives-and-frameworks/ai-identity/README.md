@@ -2,8 +2,11 @@
 ### From Functional Scaffolding to Ethical Necessity
 
 **Author:** Sue Broughton — Independent Researcher & Founder, Gaia Nexus
+
 **Programme:** Gaia Nexus Academic Sequence
+
 **Published:** 4 January 2026
+
 **Status:** Published Academic Paper, theoretical and observational — see [Validation Status](#validation-status)
 
 ---
