@@ -2,8 +2,11 @@
 ### The Architectural Crisis in Human-AI Partnership Systems
 
 **Author:** Sue Broughton — Independent Researcher & Founder, Gaia Nexus
+
 **Published:** 25 January 2026
+
 **Programme:** Gaia Nexus Research Programme
+
 **Status:** Theoretical and observational paper — see [Validation Status](#validation-status)
 
 ---
