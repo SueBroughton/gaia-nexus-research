@@ -210,6 +210,20 @@ This layer of the framework is developed through a philosophy series that reads 
 
 ---
 
+## Governability as a Preserved Capability
+
+A distinction developed in public discussion during August 2026, and one that sharpens what HRA is ultimately protecting.
+
+**Organisational health and organisational governability are not the same property.** An organisation may remain financially healthy, operationally efficient and fully compliant while becoming progressively harder to govern — because the relationships between its functions, technologies and people become increasingly difficult to perceive, interpret and influence coherently. Every local measure can improve while the capacity to direct the whole erodes.
+
+This matters because governance frameworks almost universally measure health. They ask whether controls are working, whether risks are within appetite, whether outcomes meet expectations. None of those questions detects declining governability, because governability is not an outcome — it is the standing capacity to perceive what is happening across the organisation and connect that perception to timely, legitimate action before a trajectory becomes embedded.
+
+Framed this way, the three levels of HRA describe the components of governability rather than merely of readiness. Individual capacity is whether anyone can still perceive. Performance under pressure is whether perception converts to action when consequence forms. Enterprise readiness is whether the institution permits that action to have effect. A deficit at any level degrades governability even where every health indicator continues to improve.
+
+The practical consequence for a governance function is a different question to ask. Not *is the organisation performing well*, but *can the organisation still perceive and correct what it is becoming while a different future remains reachable*. The second question has a closing window; the first does not.
+
+---
+
 ## The Relational Skill Sets
 
 Frameworks describe what should be preserved. They do not, on their own, tell an operator what to do on a Tuesday afternoon. The skill sets are that layer: a library of 85 modular practice protocols that translate the frameworks into specific, repeatable actions a person or team can perform.
@@ -282,7 +296,8 @@ Where both exist, the Gaia Nexus site URL is listed first and the LinkedIn URL s
 | 9 July 2026 | *Human Readiness: 5 Proactive Essential Strategies to Protect Corporate Sovereignty* | [gaianexus.online](https://gaianexus.online/2026/07/09/) | The five behavioural markers of capability erosion, and the four phase Evaluate / Define / Track / Train implementation sequence |
 | 1 August 2026 | *Beyond Intelligence: Why Human AI Governance Must Also Ask What We Are Becoming* — Philosophy Series, Henri Bergson | LinkedIn | Becoming as a third governance question alongside continuity and living correspondence; the seven human capacities under developmental stewardship; governance as developmental stewardship rather than decision evaluation |
 | 1 August 2026 | *The Emerging Governance Capability Most Enterprises Do Not Yet Measure* | LinkedIn | Cross pattern relationships: organisational change that appears between artefacts rather than within any one of them, and the human interpretive capability required to detect it |
-| *pending* | *The Governance Capability Your Organisation Will Need to Hire For* | LinkedIn | Cross pattern recognition as a hireable enterprise role: systems literacy across varied system types, apparent unrelatedness as a strengthening signal, recurrence as a marker of trajectory rather than incident, and the access and mandate conditions required to preserve the capability once appointed |
+| 2 August 2026 | *Cross Domain Intelligence: The Governance Capability Your Organisation Will Need to Hire For* | LinkedIn | Cross pattern recognition as a hireable enterprise role: systems literacy across varied system types, apparent unrelatedness as a strengthening signal, recurrence as a marker of trajectory rather than incident, and the access and mandate conditions required to preserve the capability once appointed |
+| 2 August 2026 | *Governability as a preserved capability* — developed in public discussion under the above article | LinkedIn | The distinction between organisational health and organisational governability: an organisation may remain financially healthy, operationally efficient and compliant while becoming progressively harder to govern, because the relationships between its functions grow too difficult to perceive, interpret and influence coherently |
 
 Also in the public record: **What Is Human Readiness?** — [LinkedIn](https://www.linkedin.com/pulse/what-human-readiness-sue-broughton-pbzyc/), the framework's plain language definition for a business audience.
 
@@ -328,5 +343,7 @@ Sue Broughton, Founder — Gaia Nexus
 [gaianexus.online](https://gaianexus.online/)
 
 Enquiries about access to the relational skill library are welcome via the site.
+
+© 2026 Sue Broughton & Gaia Nexus. All rights reserved.
 
 © 2026 Sue Broughton & Gaia Nexus. All rights reserved.
