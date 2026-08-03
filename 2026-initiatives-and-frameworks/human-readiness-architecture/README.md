@@ -3,8 +3,11 @@
 ### The missing half of AI performance optimisation
 
 **Author:** Sue Broughton, Gaia Nexus
+
 **Discipline:** Relational Infrastructure Engineering
+
 **Folder established:** July 2026
+
 **Status:** Under active development and active publication. The record is a growing body of dated public articles rather than a single anchor paper. Measurement methodology is the current open problem.
 
 ---
