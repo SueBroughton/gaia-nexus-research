@@ -3,6 +3,7 @@
 ### Gaia Nexus — Relational Infrastructure Engineering
 
 **Author:** Sue Broughton, Gaia Nexus
+
 **Status:** Active research and publication programme. Frameworks are under continuing development. Nothing here has been empirically validated.
 
 ---
