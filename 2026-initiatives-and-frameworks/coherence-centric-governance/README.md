@@ -2,8 +2,11 @@
 ### Why Drift Centric Governance Is Incomplete and Why Coherence as the Generative Centre Is Sustainable
 
 **Author:** Sue Broughton — Independent Researcher & Founder, Gaia Nexus
+
 **Published:** 9 June 2026
+
 **Programme:** Gaia Nexus Research Programme
+
 **Status:** Theoretical and observational paper with working prototype — see [Validation Status](#validation-status)
 
 ---
