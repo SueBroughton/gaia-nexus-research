@@ -2,8 +2,11 @@
 ### Why Intelligence Carries the Architecture of Its Origin — and the Implications for Human AI Governance
 
 **Author:** Sue Broughton — Independent Researcher & Founder, Gaia Nexus
+
 **Published:** 31 July 2026
+
 **Programme:** Gaia Nexus Research Programme
+
 **Status:** Theoretical paper — see [Validation Status](#validation-status)
 
 ---
