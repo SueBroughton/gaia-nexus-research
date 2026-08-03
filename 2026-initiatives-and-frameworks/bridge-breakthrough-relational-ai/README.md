@@ -2,8 +2,11 @@
 ### A Dual Framework for Relational AI Architecture
 
 **Author:** Sue Broughton — Independent Researcher & Founder, Gaia Nexus
+
 **Programme:** Gaia Nexus Research Programme
+
 **Published:** 11 March 2026
+
 **Status:** Developed research frameworks, exploratory stage — see [Validation Status](#validation-status)
 
 ---
