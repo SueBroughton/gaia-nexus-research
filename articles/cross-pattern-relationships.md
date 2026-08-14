@@ -8,7 +8,7 @@ url: https://www.linkedin.com/pulse/emerging-governance-capability-most-enterpri
 post_url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7489308651242004480/
 frameworks: [CCG, RCD, HRA]
 emerging_themes: [cross-domain pattern recognition, strategic stewardship role]
-record: cross-pattern-relationships.pdf
+record: Cross Pattern Matching LinkedIn 1082026.pdf
 ---
 
 # Cross Pattern Relationships
